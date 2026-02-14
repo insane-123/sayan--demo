@@ -1,5 +1,5 @@
 # sayan--demo
 This is my first Repository
 <br>
-Author - Sayan Maity.... (passout)
+Author - Sayan Maity.... 
 
